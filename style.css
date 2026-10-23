@@ -1,0 +1,12 @@
+.table {
+    background-color:darkslategray;
+}
+td img {
+    width:100px;
+}
+img {
+    width:200px;
+}
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
